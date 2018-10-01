@@ -142,6 +142,7 @@ Eclipse Example
     		ParseTree tree = parser.r(); // begin parsing at rule 'r'
     		System.out.println(tree.toStringTree(parser)); // print LISP-style tree
     	}
+    }
 ```
 
 Building ANLTR 4 IDE
